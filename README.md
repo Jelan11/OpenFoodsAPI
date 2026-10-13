@@ -1,3 +1,4 @@
+ HEAD
 # Inventory Management System
 
 A Flask REST API with a CLI front end for managing retail inventory. Product
@@ -117,3 +118,6 @@ success, not-found, and failure cases.
 
 ## Notes
 Data is stored in an in-memory list and resets when the server restarts.
+
+# OpenFoodsAPI
+ 19d9128834a9e6be9e9c793fd617d828ffaa0bbc
